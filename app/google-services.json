@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "759650054062",
+    "firebase_url": "https://healthcare-4bafd-default-rtdb.firebaseio.com",
+    "project_id": "healthcare-4bafd",
+    "storage_bucket": "healthcare-4bafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759650054062:android:330eeccd16f5c7bf28223f",
+        "android_client_info": {
+          "package_name": "com.example.final5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmJC8hiiz0FjBT9tSpbcRcVw9xE1R0FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
